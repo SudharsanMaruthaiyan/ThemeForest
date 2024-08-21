@@ -22,7 +22,7 @@ const Faq = () => {
                         </div>
                     </div>
                     {/* accodion section  */}
-                    <div className=" md:mt-32 lg:mt-0">
+                    <div className="mt-72 md:mt-32  lg:mt-0">
                         <div>
                             <div className=" flex items-center gap-1">
                                 <div className=" p-2 bg-[#F6E2E6] rounded-full">
