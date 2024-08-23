@@ -1,6 +1,6 @@
 import { useState } from "react"
 import { Plus, Minus } from "lucide-react"
-const Accodion = ({title , content}) => {
+const FaqAccodion = ({title , content}) => {
     const [accodion, setAccodion] = useState(false)
   return (
     <>
@@ -19,4 +19,4 @@ const Accodion = ({title , content}) => {
   )
 }
 
-export default Accodion
+export default FaqAccodion
