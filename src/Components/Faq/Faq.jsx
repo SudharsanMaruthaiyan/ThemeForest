@@ -24,8 +24,9 @@ const Faq = () => {
                     {/* accodion section  */}
                     <div className="mt-72 md:mt-32  lg:mt-0">
                         <div>
-                            <div className=" flex items-center gap-1">
-                                <div className=" p-2 bg-[#F6E2E6] rounded-full">
+                        {/* bg-[#F6E2E6] */}
+                            <div className=" flex items-center  gap-1">
+                                <div className=" p-2 bg-[#6daaf590] rounded-full">
                                     <div className=" h-3 w-3 bg-[#1176F0] rounded-full shadow-yellow-300"></div>
                                 </div>
                                 <p className=" text-[#1176F0] font-bold font-[manrope-b] text-[18px]">FAQ</p>
