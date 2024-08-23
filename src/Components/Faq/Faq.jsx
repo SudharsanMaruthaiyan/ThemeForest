@@ -17,7 +17,7 @@ const Faq = () => {
                             <h1 className=" font-[manrope-b] text-[22px] font-bold text-wrap text-white">Contact Us For a <span className=" text-[#1176F0]">Free Learning</span>  <br className=" lg:hidden xl:block"/> Consulting Evaluation</h1>
                             <div className=" flex items-center pt-4">
                                 <img src={shaper} alt="" />
-                                <p className="text-[#FF3158]">088 4500 105</p>
+                            <p className="text-[#FF3158]"><a href="tel:+91 80729 48266">+91 80729 48266</a></p>
                             </div>
                         </div>
                     </div>
